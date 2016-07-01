@@ -13120,11 +13120,11 @@ exports.BattleMovedex = {
 		id: "steameruption",
 		isViable: true,
 		name: "Steam Eruption",
-		pp: 5,
+		pp: 8,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, defrost: 1},
 		thawsTarget: true,
-		isUnreleased: true,
+		isUnreleased: false,
 		secondary: {
 			chance: 30,
 			status: 'brn'
